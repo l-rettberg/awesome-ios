@@ -1584,6 +1584,8 @@ Most of these are paid services, some have free tiers.
 - [Runtime](https://github.com/wickwirew/Runtime) - A Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 
 ## Regex
+- [Regex Information and Tutorial](https://www.regular-expressions.info/characters.html) - Regular Expression Tutorial
+- [Regex Tester/Debugger (Online)](https://regex101.com) - Online Regular Expression Tester/Debugger
 - [Regex](https://github.com/sharplet/Regex) - A Swift µframework providing an NSRegularExpression-backed Regex type.
 - [SwiftRegex](https://github.com/kasei/SwiftRegex) - Perl-like Regex =~ operator for Swift.
 - [PySwiftyRegex](https://github.com/cezheng/PySwiftyRegex) - Easily deal with Regex in Swift in a Pythonic way.
